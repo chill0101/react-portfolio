@@ -89,7 +89,7 @@ export const translations = {
     // About
     aboutTitle: "About me",
     aboutDescription1: "Self-taught Jr Developer and Systems Analysis student, currently developing Apps Script Web Apps for operational process automation and DataFlow Jobs in People Analytics team.",
-    aboutDescription2: "I love taking on challenges, learning new things. I dedicate a lot of time to practice to improve my skills. Currently, I'm focused on web development, and also interested in business software implementation.",
+    aboutDescription2: "I love taking on challenges and continuously learning new things. I dedicate a lot of time to practice to improve my skills. Currently, I'm focused on web development, and also interested in business software implementation.",
     frontendTitle: "Frontend",
     backendTitle: "Backend",
     educationTitle: "Education",
