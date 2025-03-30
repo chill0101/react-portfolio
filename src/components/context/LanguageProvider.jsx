@@ -7,7 +7,7 @@ import PropTypes from "prop-types";
 // This component will provide the language context to its children
 export const LanguageProvider = ({ children }) => {
   const [language, setLanguage] = useState(() => {
-    return localStorage.getItem("language") || "es";
+    return localStorage.getItem("language") || "en";
   });
   
   // toggleLanguage function to switch between languages
