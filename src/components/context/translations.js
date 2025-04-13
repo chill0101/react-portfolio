@@ -56,7 +56,9 @@ export const translations = {
     calendarDesc: "App de calendario realizada con stack MERN integrando React Big Calendar y Bootstrap para estilos.",
     railcarDesc: "Web App de Google Apps Script para transferencia entre files de Google Sheets. Desarrollada con HTML, CSS, JS y TailwindCSS.",
     notesDesc: "Apps de Notas con autentificación de usuarios desarrollada en React con MaterialUI, base de datos en Fire Base y carga de imágenes en Cloudinary.",
-    
+    ipptWeb: "Landing Page de Instituto de Piscología de Argentina, desarrollada en Wordpress con Elementor. Deploy en Hostinger.",
+    yogalabWeb: "Landing Page de Estudio de Yoga en Chile, desarrollada en Wordpress tema Flatsome (UX Builder).",
+
     // Footer
     footerThanks: "Gracias por tu tiempo!",
     madeWith: "Hecho con amor y React 19",
@@ -123,7 +125,9 @@ export const translations = {
     calendarDesc: "Calendar app built with MERN stack integrating React Big Calendar and Bootstrap for styling.",
     railcarDesc: "Google Apps Script Web App for transfers between Google Sheets files. Developed with HTML, CSS, JS, and TailwindCSS.",
     notesDesc: "Notes App with user authentication developed in React with MaterialUI, Firebase database, and Cloudinary image uploads.",
-    
+    ipptWeb: "Landing Page for argentinian Psycology Institute, developed in WordPress with Elementor. Deployed on Hostinger.",
+    yogalabWeb: "Landing Page for Yoga Studio in Chile, developed in WordPress with Flatsome theme (UX Builder).",
+
     // Footer
     footerThanks: "Thank you for your time!",
     madeWith: "Made with love and React 19",

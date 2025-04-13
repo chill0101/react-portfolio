@@ -34,6 +34,24 @@ export const Projects = () => {
       technologies: ["React", "MaterialUI", "Firebase", "JavaScript"],
       link: "https://reactjs-simple-notes.netlify.app/",
       github: "https://github.com/chill0101/notes-reactJs-app"
+    },
+    {
+      title: "IPPT.com.ar - Landing Page",
+      description: trl.ipptWeb,
+      image: config.images.projects.ippt.default,
+      thumbnail: config.images.projects.ippt.thumbnail,
+      technologies: ["Wordpress", "Elementor"],
+      link: "https://ippt.com.ar/",
+      github: "#"
+    },
+    {
+      title: "Yogalab.cl - Landing Page",
+      description: trl.yogalabWeb,
+      image: config.images.projects.yogalab.default,
+      thumbnail: config.images.projects.yogalab.thumbnail,
+      technologies: ["Wordpress", "Flatsome"],
+      link: "https://yogalab.cl/",
+      github: "#"
     }
   ];
   

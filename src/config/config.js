@@ -30,6 +30,14 @@ export const config = {
         notes: {
           default: "https://res.cloudinary.com/dsbjzd18p/image/upload/f_auto,q_auto/abtcr8lqunllpcu2ku9y",
           thumbnail: "https://res.cloudinary.com/dsbjzd18p/image/upload/f_auto,q_auto,w_600/abtcr8lqunllpcu2ku9y"
+        },
+        ippt: {
+          default: "https://res.cloudinary.com/dsbjzd18p/image/upload/v1744430791/nzqbrycp3b5gto0cf2dx.png",
+          thumbnail: "https://res.cloudinary.com/dsbjzd18p/image/upload/v1744430791/nzqbrycp3b5gto0cf2dx.jpg"
+        },
+        yogalab: {
+          default: "https://res.cloudinary.com/dsbjzd18p/image/upload/v1744430791/psl8vhtsb2ugvtkpnzfq.png",
+          thumbnail: "https://res.cloudinary.com/dsbjzd18p/image/upload/v1744430791/psl8vhtsb2ugvtkpnzfq.jpg"
         }
       }
     },

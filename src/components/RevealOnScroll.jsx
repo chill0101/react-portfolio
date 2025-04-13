@@ -1,9 +1,7 @@
-
 import { useEffect, useRef } from "react"
-
+import PropTypes from 'prop-types';
 
 export const RevealOnScroll = ({ children }) => {
-
     const ref = useRef(null)
     useEffect(() => {
         const observer = new IntersectionObserver( ([entry]) => {
@@ -20,3 +18,8 @@ export const RevealOnScroll = ({ children }) => {
 
   return <div ref={ref} className="reveal">{children}</div>
 }
+
+// Definimos las PropTypes para el componente
+RevealOnScroll.propTypes = {
+  children: PropTypes.node.isRequired
+};
