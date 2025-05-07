@@ -16,7 +16,7 @@ export const NavBar = ({menuOpen, setMenuOpen}) => {
 
   return (
     <nav
-      className="fixed top-0 w-full z-40 bg-[rgba(10, 10, 10, 0.8)] backdrop-blur-lg border-b border-gray-800 shadow-md"
+      className="fixed top-0 w-full z-40 bg-[rgba(5, 0, 28, 0.93)] backdrop-blur-3xl border-gray-800 shadow-md"
     >
       <div
         className=" mx-auto px-8"
